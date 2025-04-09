@@ -1,3 +1,7 @@
+# Netlify APP HOSTED URL:
+
+## https://turing-tech-call-app.netlify.app/
+
 # 📞 Turing Technologies - Frontend Technical Test
 
 This is a frontend web application built as a solution to the Turing Technologies frontend technical test. It displays a list of calls with pagination, filtering, call detail viewing, note-taking, and archiving functionalities.
